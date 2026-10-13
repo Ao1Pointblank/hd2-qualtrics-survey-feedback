@@ -1,10 +1,10 @@
 - Red Stratagems:
 
-EMS strike stun duration, power, & radius increase.
+EMS strike needs stun duration, power, & radius increase, to make it more useful against super heavy enemies and larger crowds.
 
-Change smoke strikes to have a blue stratagem beam instead of red, like EMS strike.
+Change smoke strikes to have a blue stratagem beam instead of red, to match other non-lethal trikes like the EMS orbital.
 
-Eagle 110mm rocket pods got a great buff recently, but I have a suggestion: change scout striders & their variants to medium/light tier enemies so they are not prioritized over hulks and tanks by the eagle's targeting.
+Eagle 110mm rocket pods got a great buff recently, but I have a suggestion: de-prioritize targeting of scout striders, alpha commanders, and other smaller heavy enemies. Increase targeting of hulks, tanks, and War Striders.
 
 Orbital Airburst needs to be returned to its former glory. The update that modified angle of attack from Super Destroyers has altered the ricochet of the scattered projectiles to an absurd degree, and something has to be changed. 
 Besides the angle of attack issue, I think it also needs a damage buff or armor penetration buff to compete better with similar short cooldown orbitals. 
@@ -13,16 +13,21 @@ Besides the angle of attack issue, I think it also needs a damage buff or armor 
 - Support Weapons:
 
 Arc weapon collision with foliage, fences, and corpses needs to be looked at. Especially now that foliage doesn't even slow down Helldiver movement, it shouldn't still affect weapon fire. 
-I've also noticed the Arc Thrower doesn't arc as much when fired from midair/from a steep downward angle such as with the hover pack.
+I've also noticed the Arc Thrower doesn't arc as much when fired from midair/from a steep downward angle such as with the hover pack or from a clifftop.
 
 FAF-Spear needs about 2x lockon distance, and make the missile trajectory more vertically extreme. This would make it visually match real-world javaline rockets better, which are intended to penetrate weaker top armor of tanks. A faster projectile would also be very nice. 
 
 Maxigun needs the dive button to interrupt shooting and immediately send the player diving. 
 
+MG-43 Machinegun is missing the overheated, red-hot barrel. (other machinegun stratagems still have this feature)
+
 I think it is time for a Recoilless rifle nerf. 
 Not sure what can be done without aggravating thousands of people, unfortunately, but it's honestly very tiring to try and have fun with players that just nuke everything in one shot. 
 Maybe start small with a nerf to deflection angles, or slower reload time 
 Or, make the alternate HE firing mode more enticing to use, thus encouraging players to use their resources differently. 
+
+The map pickup item, the "Colonial Shotgun"/over-under double barrel shotgun has a lot of gameplay potential, since we have no other shotgun support weapons. Sadly, it is wasted as a uselessly weak environmental prop.
+Either buff the item and make it a stratagem we can equip in our loadouts, or make a new shotgun support weapon in some future warbond or campaign reward. 
 
 - Primary/Secondary Weapons:
 
@@ -69,6 +74,7 @@ Scout & Unflinching armor:
 The map ping perk which highlights enemies should not be negated by atmospheric spores.
 I'd really like to see a Heavy Unflinching armor at some point, maybe as a campaign reward.
 
+
 - Environment/Movement/Vehicles:
 
 Revert Helldiver movement buff through foliage (encourages smarter map navigation & awareness) 
@@ -84,12 +90,16 @@ Broken gaps in the walls of Cyborg Megafactories have inexusably terrible invisi
 Improve tank responsiveness (when rotating left/right) and allow for more main gun elevation and depression. 
 If you're going to make a casemate tank in the 2100s, make certain it has a good transmission for quickly switching targets. 
 
+Fire Tornados spawning seems to increase drastically when the squad is at extract waiting for the Pelican.
+Almost without fail, about 7 tornados appear at this stage of the game and swarm the landing zone as if they are coordinated sentient entities. 
+
+
 - Enemy units/structures: 
 
 Lockon weapons target bulk fabricators at an awkwardly low position on the structure, making it hard to hit them from a distance with the Spear. 
 
 I still hate war striders. 
-Please move them into a subfaction, or make it more clear in what missions they will appear instead of tanks. 
+Please move them into a subfaction, or make it more clear in what missions they will appear instead of tanks. (Perhaps make them a mission modifier like Leviathan Blockade or Gunship Patrols)
 It drastically reduces the fun-factor of my loadout when I have to plan for war striders. 
 
 
@@ -98,7 +108,6 @@ It drastically reduces the fun-factor of my loadout when I have to plan for war 
 I appreciate campaign rewards, but I worry that we will be unable to progress the story in interesting ways that involve even minor setbacks and losses for Super Earth, due to outraged players upset about missing a reward.
 When people asked for free stratagems tied to campaigns, we were thinking of events like "save the children" where we intentionally skipped the opportunity to win gas mines. There was no fear of missing out on the stratagem, and we had a clear plotline to follow by avoiding them in favor of the moral route. 
 Now, stratagem/armor rewards are making campaigns feel rigged in our favor, and the story is suffering. I think the argument could also be made that the rewards are getting too frequent and divers are getting spoiled. 
-
 
 Allies joined via the Find Match button often have their boosters/stratagems invisible, duplicated, or glitched in some manner which makes synergizing with their loadouts difficult. 
 
