@@ -1,0 +1,107 @@
+- Red Stratagems:
+
+EMS strike stun duration, power, & radius increase.
+
+Change smoke strikes to have a blue stratagem beam instead of red, like EMS strike.
+
+Eagle 110mm rocket pods got a great buff recently, but I have a suggestion: change scout striders & their variants to medium/light tier enemies so they are not prioritized over hulks and tanks by the eagle's targeting.
+
+Orbital Airburst needs to be returned to its former glory. The update that modified angle of attack from Super Destroyers has altered the ricochet of the scattered projectiles to an absurd degree, and something has to be changed. 
+Besides the angle of attack issue, I think it also needs a damage buff or armor penetration buff to compete better with similar short cooldown orbitals. 
+
+
+- Support Weapons:
+
+Arc weapon collision with foliage, fences, and corpses needs to be looked at. Especially now that foliage doesn't even slow down Helldiver movement, it shouldn't still affect weapon fire. 
+I've also noticed the Arc Thrower doesn't arc as much when fired from midair/from a steep downward angle such as with the hover pack.
+
+FAF-Spear needs about 2x lockon distance, and make the missile trajectory more vertically extreme. This would make it visually match real-world javaline rockets better, which are intended to penetrate weaker top armor of tanks. A faster projectile would also be very nice. 
+
+Maxigun needs the dive button to interrupt shooting and immediately send the player diving. 
+
+I think it is time for a Recoilless rifle nerf. 
+Not sure what can be done without aggravating thousands of people, unfortunately, but it's honestly very tiring to try and have fun with players that just nuke everything in one shot. 
+Maybe start small with a nerf to deflection angles, or slower reload time 
+Or, make the alternate HE firing mode more enticing to use, thus encouraging players to use their resources differently. 
+
+- Primary/Secondary Weapons:
+
+Slugger should be heavy pen. It isn't fair that the only heavy pen primary is the Eruptor, a notorious noob gun that ragdolls and kills teammates, and is definitely overused. 
+We need a reliable heavy pen primary with some skill ceiling and accuracy.
+Dominator could be another candidate for this buff, but I think it would be better with a homing bullet alt-fire (just like the Warrant pistol) 
+
+Please allow divers to fire the Warrant while flying/jetpacking, or even one-handed while running. 
+Warrant pistol also incorrectly targets the gates on Defense missions.
+
+Killzone Accelerator Rifle could use the incendiary effect. It's a beastly weapon as is, and criminally underused, but I think a slight fire effect would go a very long way in letting divers save ammo while sniping medium enemies like Devastators. Additionally, it would make the gun better match its Killzone version. 
+
+Arbitrator reload speed is too slow, and the ergonomics are awful. These debuffs are not required to balance a weapon which already has a pretty low ammo capacity and very low damage. 
+
+
+- Throwables: 
+
+Smoke grenades were left behind in the throwables increase buff. A max of 6 would not be unreasonable.
+Throwing knives need better centering on the crosshair. 
+
+G-31 Arc grenades need the ability to be tagged as "danger", to alert nearby Helldivers
+
+
+- Armor Passives:
+
+Gunslinger buff ideas
+A) apply recoil reduction & reload speed to all one handed weapons (not just sidearms) 
+B) apply weapon draw/swap speed to all weapons (including support weapons) 
+
+Adreno Defibrillator buff ideas
+A) less bleed out during death effect, or more damage resistance
+B) ability to sprint during death effect
+C) +2 stim capacity
+Additionally, please ensure the passive does not missfire. It often kicks in at ~20% HP especially with the light armor version of this passive. 
+
+Advanced Filtration (gas proof armor)
+A) the new slowing effect of toxic gas should not affect this armor
+B) the Motivational Shocks booster should eliminate the slowing effect of gas for all other armor passives 
+
+Halo ODST armor:
+add 70% reduction to fall damage (or maybe add the new Impact Resistance passive from the KDM-Outrider armor)
+
+Scout & Unflinching armor:
+The map ping perk which highlights enemies should not be negated by atmospheric spores.
+I'd really like to see a Heavy Unflinching armor at some point, maybe as a campaign reward.
+
+- Environment/Movement/Vehicles:
+
+Revert Helldiver movement buff through foliage (encourages smarter map navigation & awareness) 
+
+Explosive plants are too frequent to make FRVs very viable for the average diver. With all the new attention to FRVs, I would like to point out that even smoke mushrooms deal explosive damage to the tires of FRVs and over time will destroy them. 
+At the very least, make them stop ragdolling the car. They should only cause a ragdoll/flip when they are shot, to match behavior with Helldiver infantry. 
+
+It's fine to keep driving a niche and high-skill gameplay style for most missions, but we need more biomes that are clear and open enough for fast driving, since that is very fun. This applies to cities as well, which are overcrowded by exploding civilian vehicles. We need places to go full throttle with FRVs, maybe even new mission types dedicated to fast driving. (escort VIP convoy, rush deliver a package, frv rigged with a timed explosive?) 
+This would encourage divers who normally don't ever drive to give it a try and be useful. 
+
+Broken gaps in the walls of Cyborg Megafactories have inexusably terrible invisible hitboxes that will catch bullets and rockets.
+
+Improve tank responsiveness (when rotating left/right) and allow for more main gun elevation and depression. 
+If you're going to make a casemate tank in the 2100s, make certain it has a good transmission for quickly switching targets. 
+
+- Enemy units/structures: 
+
+Lockon weapons target bulk fabricators at an awkwardly low position on the structure, making it hard to hit them from a distance with the Spear. 
+
+I still hate war striders. 
+Please move them into a subfaction, or make it more clear in what missions they will appear instead of tanks. 
+It drastically reduces the fun-factor of my loadout when I have to plan for war striders. 
+
+
+- General Game Issues:
+
+I appreciate campaign rewards, but I worry that we will be unable to progress the story in interesting ways that involve even minor setbacks and losses for Super Earth, due to outraged players upset about missing a reward.
+When people asked for free stratagems tied to campaigns, we were thinking of events like "save the children" where we intentionally skipped the opportunity to win gas mines. There was no fear of missing out on the stratagem, and we had a clear plotline to follow by avoiding them in favor of the moral route. 
+Now, stratagem/armor rewards are making campaigns feel rigged in our favor, and the story is suffering. I think the argument could also be made that the rewards are getting too frequent and divers are getting spoiled. 
+
+
+Allies joined via the Find Match button often have their boosters/stratagems invisible, duplicated, or glitched in some manner which makes synergizing with their loadouts difficult. 
+
+Terminals often get frozen if the host leaves the game mid-interaction.
+
+Corpses of heavy enemies (particularly Impalers) produce invisible walls upon death, which are not lined up with the corpses. They also often turn rubbery and stretch out and spasm all over the place which looks weird, and almost never despawn.
