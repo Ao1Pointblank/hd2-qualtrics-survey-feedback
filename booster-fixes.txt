@@ -1,26 +1,73 @@
 Helldivers 2 Boosters need stronger, more impactful, and more noticeable effects.
+Simply put, boosters need to have unique and fun effects on gameplay, and not feel like baseline requirements to have fun. 
+
+Some boosters just need to be made more powerful and have a more noticeable impact.
+Some need to be more specialized and cater to niche playstyles.
+Some need to be merged into default gameplay stats.
+Some boosters probably just need to be deleted entirely if a suitable fix cannot be made.
+
+Regardless, they should all have characteristics that are immediately noticeable and offer fun twists to the baseline gameplay loop. 
+However, there should not be boosters that interfere with players of a different playstyle, such as the Firebomb Hellpods we have now, nor should there be a META of 4 boosters which are illogical to replace. 
+Every booster must be viable and fun for certain missions, biomes, or playstyles, and must not clash with the preferences of other players.
+
+Real/Hypothetical examples of Boosters with bad gameplay design:
+- Stamina or Vitality Enhancement:
+  these are bad in two ways.
+  1) they are simultaneously META (flat stat boosts that are hardly situational or creative)
+  2) they are not fun, hardly noticeable, and don't bring anything creative to gameplay
+    (caveats being the only time Stamina is noticed is when wearing heavy armor, and Vitality only when under the effects of gas/fire/Dead Sprint)
+
+- A hypothetical booster which makes elemental Gas attacks combustible by fire: (a frequent community request, for some reason)
+  this one is bad because it negatively impacts Gas Divers and clashes with their playstyle of smothering themselves and enemies in Gas.
+
+- Firebomb Hellpods
+  this one is bad because it clashes with the playstyle of Expendable Stratagem users, while also offering no tangible offensive usage.
+  (I think it is broken and doesn't offer extra Hellpod damage or set enemies on fire)
 
 
-Boosters to leave unchanged (at the very most, shuffle around which Warbond they unlock in):
+The comments above are the philosophy around which I have constructed the following suggestions:
 
-Stamina
-Hellpod Space Optimization
-Experimental Infusion
-Dead Sprint
-Sample Scanner
 
-Vitality:
-Make this applied to all dives by default. Remove it from the Helldivers Mobilize Warbond. Replace it with something else so low level players can bring something useful to the squad.
+Boosters that are picked almost 100% of the time and do not meaningfully alter the tactics used by Helldivers should be considered as candidates to be implemented as default statuses in every game, instead of intentionally chosen boosters.
+Remove these from the Helldivers Mobilize Warbond, & replace them with something else so low level players can bring something useful to the squad.
+This could apply to:
+- Stamina Enhancement
+- Vitality Enhancement
+- Hellpod Space Optimization (to a lesser extent -- this booster's effect can be very easily felt by all divers in a squad, and does actually affect tactics/planning/ammo economy)
 
-Expert Extract Pilot: -> rename to Expert Pelican Pilots
-Make vehicle call-ins have faster and more logical landings. Right now, vehicles land facing weird directions and sometimes the pilot hovers too long and gets the vehicle shot up. Also decrease cooldown between vehicles. Excellent booster for Tankers, Mech fans, and Helldrivers.
+Boosters to leave unchanged:
+(At the very most, shuffle around which Warbond they unlock in)
+- Hellpod Space Optimization (potentially remove & make default?)
+- Experimental Infusion
+- Dead Sprint (leave unchanged assuming the 10% Vitality Enhancement is silently added as a default status in all games by default)
+- Sample Scanner
 
-Sample Extricator:
-Make rares and supers spawn from killed heavies. Remove or increase the 10 sample per game limit. This would make farming heavies fun.
+- Expert Extract Pilot: -> rename to Expert Pelican Pilots
+This booster is one of the better ones, but if I had to change it, I would make it more useful to vehicle users, whom rely on Pelicans to deliver their most valuable stratagems.
+On top of making extractions quicker, make vehicle deliveries faster and have more logical landings. (Right now, vehicles land facing weird directions, regardless of which way the thrower is facing, and sometimes the pilot hovers too long and gets the vehicle shot up.)
+Other ideas could include:
+- addition of HMG turrets on SEAF soldier dropships
+- more powerful autocannon rounds from Pelican-1
+- larger extract beacon zone + more lenient timer before an extract beacon aborts
 
-Muscle Enhancer: -> rename to Improved Friction Materials
-Right now, I think this booster still improves FRV wheel traction/handling (this might even apply to tanks and GATERs). Perhaps lean into this more and eliminate slippage on sand and icy terrain entirely, and improve hill climbing.
-Alternatively, separate the vehicle attributes into their own booster (but this would make it too hyper-specialized and would recreate the same problem we have now).
+- Sample Extricator:
+In addition to common samples, make rares and supers also spawn from killed heavies. 
+Remove or increase the 10 samples maximum. 
+This would make farming heavy enemies fun for lower level players, but it would not fix the problem of samples still being mostly useless for everyone else above ~lvl 75.
+In this case, a small XP bonus could be given for every heavy enemy kill. 
+
+- Muscle Enhancer:
+The effect this booster currently has on Helldivers is poorly explained and barely noticed, except in sandstorms and blizzards. (An argument could be made to move the sandstorm/blizzard nullification effect into Motivational Shocks.)
+A lot of players incorrectly assume this booster impacts Helldiver's abilities to climb terrain or scale steep hills. 
+They should be made correct in this assumption.
+Other ideas could include:
+  - increase the time Divers can stay afloat in water
+  - small weapon ergonomics improvement
+  - increased walking speed while carrying heavy items like artillery shells and platinum bars
+  - it sounds strange, but right now, I think this booster has an impact on vehicle handling & traction. (maybe accidentally?) 
+    perhaps lean into this more and eliminate vehicle slippage on sand and icy terrain entirely, and improve hill climbing. (I'd actually move this idea into a whole new booster more focused on vehicles)
+
+###i stopped editing here
 
 Armed Resupply Pods: -> rename to Armed Hellpods
 Add the turret to more Hellpods. Support weapons, backpacks, maybe even mission items. Currently, it is far too niche and rarely even noticed. If players are forced to avoid friendly fire, they will also be forced to adapt to the booster in general. Adaptation is what drives engagement in games. Would be good for expendable-heavy loadouts.
@@ -43,5 +90,3 @@ If you really wanted to keep these, the effects need to be much more devastating
 I think instead of offensive boosters, these should be replaced with defensive/resistance type boosters that make regular armor passives resistant to fire, to ems, or gas. This would make flamethrower builds more bearable to play in conjunction with, if you do not want to bring flame resistant armor yourself.
 
 Flexible Reinforcement Budget & Increased Reinforcement Budget: Combine these two boosters into the same one.
-@Ao1Pointblank
-Comment
