@@ -1,0 +1,47 @@
+Helldivers 2 Boosters need stronger, more impactful, and more noticeable effects.
+
+
+Boosters to leave unchanged (at the very most, shuffle around which Warbond they unlock in):
+
+Stamina
+Hellpod Space Optimization
+Experimental Infusion
+Dead Sprint
+Sample Scanner
+
+Vitality:
+Make this applied to all dives by default. Remove it from the Helldivers Mobilize Warbond. Replace it with something else so low level players can bring something useful to the squad.
+
+Expert Extract Pilot: -> rename to Expert Pelican Pilots
+Make vehicle call-ins have faster and more logical landings. Right now, vehicles land facing weird directions and sometimes the pilot hovers too long and gets the vehicle shot up. Also decrease cooldown between vehicles. Excellent booster for Tankers, Mech fans, and Helldrivers.
+
+Sample Extricator:
+Make rares and supers spawn from killed heavies. Remove or increase the 10 sample per game limit. This would make farming heavies fun.
+
+Muscle Enhancer: -> rename to Improved Friction Materials
+Right now, I think this booster still improves FRV wheel traction/handling (this might even apply to tanks and GATERs). Perhaps lean into this more and eliminate slippage on sand and icy terrain entirely, and improve hill climbing.
+Alternatively, separate the vehicle attributes into their own booster (but this would make it too hyper-specialized and would recreate the same problem we have now).
+
+Armed Resupply Pods: -> rename to Armed Hellpods
+Add the turret to more Hellpods. Support weapons, backpacks, maybe even mission items. Currently, it is far too niche and rarely even noticed. If players are forced to avoid friendly fire, they will also be forced to adapt to the booster in general. Adaptation is what drives engagement in games. Would be good for expendable-heavy loadouts.
+
+Motivational Shocks:
+Completely nullify EMS and stun effects. Remove slowdown from gas. Makes "orbital flashbang and clear" strategy great.
+
+UAV Recon Booster:
+Apply the radar boost during EMS storms, on atmospheric spore worlds, and make it expose POIs, not just enemies.
+
+Localization Confusion:
+Delete this item. Patrols are so screwy right now, this might as well not even exist.
+Divers are already confused by this booster and bring it on missions with scripted spawns. Awful, even if it did work, because it removes half of the encounters in the game.
+Alternatively, make it do something much more tangible: make Watcher/Commissar/Bug "alert"/call-in animations take about 2x longer to complete, giving divers time to neutralize the snitch.
+
+Stun/Fire/EMS Hellpods:
+Delete all these. Absolutely useless troll boosters.
+I want to like the smoke, but it just isn't useful enough. If you are trying to be stealthy in a mission, you are already likely wearing stealthy armor or equipped with smoke grenades. It also interferes too much with turret Hellpods.
+If you really wanted to keep these, the effects need to be much more devastating, to an unrealistic extent. Currently, Firebomb Hellpods do almost no extra damage upon impact, and only set Helldivers on fire. The stun Hellpods do not have enough duration or radius to make hot drops smart.
+I think instead of offensive boosters, these should be replaced with defensive/resistance type boosters that make regular armor passives resistant to fire, to ems, or gas. This would make flamethrower builds more bearable to play in conjunction with, if you do not want to bring flame resistant armor yourself.
+
+Flexible Reinforcement Budget & Increased Reinforcement Budget: Combine these two boosters into the same one.
+@Ao1Pointblank
+Comment
