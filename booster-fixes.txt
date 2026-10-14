@@ -67,26 +67,54 @@ Other ideas could include:
   - it sounds strange, but right now, I think this booster has an impact on vehicle handling & traction. (maybe accidentally?) 
     perhaps lean into this more and eliminate vehicle slippage on sand and icy terrain entirely, and improve hill climbing. (I'd actually move this idea into a whole new booster more focused on vehicles)
 
-###i stopped editing here
+- Armed Resupply Pods: -> rename to Armed Hellpods
+Currently, it is far too niche and rarely even noticed.
+Add the turret to more Hellpods: support weapons, backpacks, maybe even mission items.
+Could result in lots of friendly fire. 
 
-Armed Resupply Pods: -> rename to Armed Hellpods
-Add the turret to more Hellpods. Support weapons, backpacks, maybe even mission items. Currently, it is far too niche and rarely even noticed. If players are forced to avoid friendly fire, they will also be forced to adapt to the booster in general. Adaptation is what drives engagement in games. Would be good for expendable-heavy loadouts.
+- Motivational Shocks:
+Doesn't have any noticeable uses currently.
+Make it nullify EMS and stun effects, and remove slowdown from gas.
+As mentioned earlier, maybe make it eliminate slowdown from blizzards and sandstorms too.
 
-Motivational Shocks:
-Completely nullify EMS and stun effects. Remove slowdown from gas. Makes "orbital flashbang and clear" strategy great.
+- UAV Recon Booster:
+Make radar work during ion storms, and on atmospheric spore worlds.
+Make the boosted radar range expose POIs, not just enemies.
 
-UAV Recon Booster:
-Apply the radar boost during EMS storms, on atmospheric spore worlds, and make it expose POIs, not just enemies.
+- Localization Confusion:
+Divers are confused by this booster and often bring it on missions with scripted spawns.
+I can't tell if it even works right in missions with enemy patrols.
+Make it do something much more tangible: make Watcher/Commissar/Bug breach animations take about 2x longer to complete, giving divers time to neutralize the snitch.
 
-Localization Confusion:
-Delete this item. Patrols are so screwy right now, this might as well not even exist.
-Divers are already confused by this booster and bring it on missions with scripted spawns. Awful, even if it did work, because it removes half of the encounters in the game.
-Alternatively, make it do something much more tangible: make Watcher/Commissar/Bug "alert"/call-in animations take about 2x longer to complete, giving divers time to neutralize the snitch.
+- Concealed Insertion:
+I want to like the smoke, but it just isn't useful enough. 
+If you are trying to be stealthy in a mission, you are already likely wearing stealthy armor or equipped with smoke grenades. 
+It also interferes too much with sentry turrets and armed Hellpods.
+Maybe increase the smoke cloud's size.
 
-Stun/Fire/EMS Hellpods:
-Delete all these. Absolutely useless troll boosters.
-I want to like the smoke, but it just isn't useful enough. If you are trying to be stealthy in a mission, you are already likely wearing stealthy armor or equipped with smoke grenades. It also interferes too much with turret Hellpods.
-If you really wanted to keep these, the effects need to be much more devastating, to an unrealistic extent. Currently, Firebomb Hellpods do almost no extra damage upon impact, and only set Helldivers on fire. The stun Hellpods do not have enough duration or radius to make hot drops smart.
-I think instead of offensive boosters, these should be replaced with defensive/resistance type boosters that make regular armor passives resistant to fire, to ems, or gas. This would make flamethrower builds more bearable to play in conjunction with, if you do not want to bring flame resistant armor yourself.
+- Firebomb Hellpods:
+Currently, Firebomb Hellpods do almost no extra damage upon impact, and only set Helldivers on fire.
+I cannot come up with a way to fix this booster in a way that will not make it annoying to most Helldivers, especially players with Expendable loadouts.
+Probably just delete it or let it be forgotten and left behind, only useful for trolling friends.
 
-Flexible Reinforcement Budget & Increased Reinforcement Budget: Combine these two boosters into the same one.
+- Stun Pods:
+The stun Hellpods do not have enough duration or radius to make hot drops smart.
+If you really wanted to keep these, the effects need to be much more powerful.
+
+I think instead of offensive boosters, the elemental Hellpod boosters should be replaced with elemental resistance boosters that make regular armor passives resistant to fire, to ems, or gas. 
+This would make flamethrower builds more bearable to play in conjunction with, if you do not want to bring flame resistant armor yourself.
+
+- Flexible Reinforcement Budget & Increased Reinforcement Budget: 
+Combine these two boosters into the same one.
+
+- Surplus EAT Allocation:
+Instead of 2 uses for the whole team, each Helldiver gets their own EAT-17 allocation.
+Alternatively, one shared stratagem for the whole team, on a shared cooldown, but no usage limits.
+
+- Integrated Extinguishers:
+This is not a very good elemental resistance booster. 
+Any diver with decent experience in the game already knows how to extinguish themselves faster than the booster does. 
+It does have a niche use for Helldivers who might not know they are on fire, such as players inside of vehicles, or for divers set on fire mid-jump with a jetpack.
+However, I would still suggest other buffs to fire resistance:
+  - higher threshold/exposure time before a Helldiver combusts
+  - 25-50% reduction to fire damage
