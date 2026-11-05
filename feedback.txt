@@ -9,10 +9,6 @@ Change beacon color to blue instead of red, to match other non-lethal trikes lik
 - Eagle 110mm Rocket Pods:
 De-prioritize targeting of scout striders, alpha commanders, and other smaller heavy enemies. 
 
-- Orbital Airburst:
-The update that added mega cities and modified angle of attack from Super Destroyers has altered the ricochet of the scattered projectiles to an absurd degree, and something has to be changed. 
-Besides the angle of attack issue, I think it also needs a damage buff or armor penetration buff to compete better with similar short-cooldown orbitals. 
-
 
 >SUPPORT WEAPONS
 
@@ -57,11 +53,6 @@ A weaker homing bullet alt-fire (just like the Warrant pistol), would also be re
 - P-92 Warrant:
 Allow firing the Warrant while flying/jetpacking, and one-handed while running. 
 Warrant pistol also incorrectly targets the gates on Defense missions.
-
-- PLAS-39 Accelerator Rifle:
-This rifle could use the incendiary effect. 
-It's a beastly weapon as is, and criminally underused, but I think a slight fire effect would go a very long way in letting Helldivers save ammo while sniping medium enemies like Devastators. 
-Additionally, it would make the gun better match its Killzone version. 
 
 - Hyena:
 Needs more ignition power, to ignite enemies in a single shot like the Coyote used to.
@@ -133,12 +124,12 @@ We need places to go full throttle with FRVs, maybe even new mission types dedic
 This would encourage divers who normally don't ever drive to give it a try and be useful. 
 
 
-- Automaton Megafactory:
+- Automaton Megafactory Biome:
 The damaged gaps in the walls of Cyborg Megafactories have inexcusably awful invisible hitboxes that will catch bullets and rockets.
 
 - Tanks:
+Improve responsiveness when rotating the vehicle left/right.
 Allow for a few more degrees of main gun elevation and depression. 
-Improve tank responsiveness when rotating the vehicle left/right.
 If you're going to make a casemate tank in the late 2100s, make certain it has a good transmission for quickly realigning the gun. 
 
 - Fire Tornados:
@@ -152,7 +143,7 @@ Almost without fail, about 7 tornados appear at this stage of the game and swarm
 Lockon weapons target bulk fabricators at an awkwardly low position on the structure, making it hard to hit them from a distance with the FAF-14 Spear. 
 
 - War Striders:
-I still hate war striders.
+I still hate war striders. (tanks are much more fun to fight)
 It drastically reduces the fun-factor of my loadout when I have to allocate one or two items just to account for an enemy with bad weakspots.
 Please disclose their presence via a mission modifier, like Leviathan Blockade or Gunship Patrols.
 
@@ -160,19 +151,17 @@ Please disclose their presence via a mission modifier, like Leviathan Blockade o
 >GENERAL GAME ISSUES
 
 - Campaigns:
-Campaign rewards were brought about to bring back some of the joy we all felt during storyline events like the "Super Citizen Anne's Hospital for Very Sick Children"/AT-Mines dilemma, where we willingly passed up on new content to instead get a more interesting story.
-I fear that the cycle of 3 Major Orders followed by a reward makes this into more of a chore than a story-driven experience, and lessens the thrill of getting something new and exciting.
+Campaign rewards were brought about to bring back some of the joy we all felt during storyline events like the "Super Citizen Anne's Hospital for Very Sick Children"/AT-Mines dilemma, when we willingly passed up on new content to instead get a more interesting story.
+I fear that the cycle of 3 Major Orders followed by a reward makes this into more of a chore than a story-driven experience.
 I also worry that the vast majority of players would get very salty if we were to lose a campaign reward, which might incentivize the game masters to "rig" the MOs in our favor, which will definitely cause the story to suffer.
-Maybe not every MO needs to be tied to a campaign or a reward, and the campaign system should be reserved for plots that massively impact the overarching story of the game. 
-I feel very strongly about this after the anticlimactic ends of the Lightning Intercept and Void Piercer campaigns, which felt rushed by the 3 MO cycle. 
+Not every MO needs to be tied to a campaign or a reward, and the campaign system should be reserved for plots that massively impact the overarching story of the game. 
+I feel very strongly about this after the anticlimactic ends of the Lightning Intercept and Void Piercer campaigns, which felt rushed by the 3 MO campaign cycle. 
 
 - Network/De-sync Issues:
-Allies joined via the Find Match button sometimes have parts of their loadouts and boosters invisible or duplicated, which makes planning & synergizing difficult. 
-
-Terminals sometimes get frozen and soft-lock the mission if the host crashes/freezes/leaves the game mid-interaction.
+Allies joined via the Find Match button sometimes have parts of their loadouts and boosters invisible or visually duplicated, which makes planning loadout synergy difficult. 
 
 - Corpses:
-Corpses of some enemies produce invisible walls upon death, which are not lined up with the corpses. 
+Corpses of some enemies produce invisible walls upon death, which are not synced up with corpse models. 
 Hulk corpse hitboxes are usually misaligned and frequently block thrown grenades and projectiles, causing unexpected Helldiver deaths. 
 Impalers take this to the extreme, and leave behind a horrible invisible barrier zone that cannot be navigated, because the visible model of the corpse has seemingly detached from the collision geometry.
 When this happens, the visible part of the corpse almost never despawns, and it spasms and jiggles all over the place, which looks really weird.
@@ -187,4 +176,4 @@ I have a few general rules which I'd like to suggest:
 With these in mind, it should result in every booster being useful to most of the team, and nobody getting kicked for bringing a bad booster.
 
 QOL stat increase boosters like Stamina and Vitality should just be added to the game by default, perhaps as ship modules. 
-Other boosters need to be explained in more detail, buffed, completely reworked, or just deleted.
+Other boosters need their descriptions explained in more detail, buffed, completely reworked, or just deleted.
