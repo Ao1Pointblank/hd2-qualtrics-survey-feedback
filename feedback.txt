@@ -74,7 +74,8 @@ Smoke grenades were left behind in the throwables increase buff from patch 1.006
 A maximum capacity of 6 would not be unreasonable.
 
 - K-2 Throwing Knife:
-Throwing knives need better centering on the crosshair. 
+Throwing knives need better centering on the crosshair.
+Helldivers walking over a thrown knife will instantly die.
 
 - G-31 Arc grenade:
 Need the ability to be tagged as "danger", to alert nearby Helldivers
