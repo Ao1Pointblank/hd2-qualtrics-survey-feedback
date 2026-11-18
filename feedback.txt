@@ -112,7 +112,7 @@ I'd really like to see a Heavy version of Unflinching armor at some point, maybe
 Revert Helldiver movement buff through foliage. (encourages smarter map navigation & awareness) 
 Fix Arc weapons being negated by small shrubs.
 
-- Driving Hazards:
+- FRV/Driving Hazards:
 Shrapnel plants, Smoke Shrooms, and Automaton Landmines are too frequently causing FRVs to spin out of control, flip over, or become destroyed.
 I would like to point out that even Smoke Shrooms deal explosive damage (5 Damage, Medium Penetration) to the tires of FRVs, and over time will destroy them. 
 At the very least, make them stop flipping the car so much. 
@@ -123,6 +123,9 @@ This applies to colonies and megacities as well, which are overcrowded by explod
 
 We need places to go full throttle with FRVs, maybe even new mission types dedicated to fast driving. (escort VIP convoy, rush deliver a package/FRV rigged with a timed explosive?) 
 This would encourage divers who normally don't ever drive to give it a try and be useful. 
+
+The FRV does not seem to do any impact damage when ramming, sideswiping, or doing a donut on top of enemies. 
+I would like the offensive capabilities of a 6-ton speeding truck to be more impactful.
 
 
 - Automaton Megafactory Biome:
